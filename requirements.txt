@@ -1,0 +1,6 @@
+pennylane
+pennylane-sf
+torch
+torchvision
+autograd
+tensorflow>=1.13.2
